@@ -1,0 +1,24 @@
+{
+  "name": "invoice2",
+  "version": "1.0.0",
+  "description": "invoice",
+  "main": "app.js",
+  "dependencies": {
+    "connect": "^3.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a2ndwindow/invoice.git"
+  },
+  "author": "Keerthan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a2ndwindow/invoice/issues"
+  },
+  "homepage": "https://github.com/a2ndwindow/invoice#readme"
+}
